@@ -15,7 +15,7 @@ Connect with me:
 ### Technologies that I have used:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,rust,python,java,kotlin,flutter,mongodb,mysql,firebase,nodejs,vscode,androidstudio,git,github,ae,ps,pr&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,rust,python,java,kotlin,flutter,dart,nextjs,vite,r,mongodb,mysql,firebase,nodejs,vscode,androidstudio,git,github,ae,ps,pr&perline=10" />
   </a>
 </p>
 
